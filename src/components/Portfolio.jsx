@@ -1,25 +1,25 @@
 import React from 'react';
-import arrayDestruct from '../assests/portfolio/arrayDestruct.jpg';
-import installNode from '../assests/portfolio/installNode.jpg';
+import marketing from '../assests/portfolio/marketing.jpg';
+import portfolio from '../assests/portfolio/portfolio.jpg';
 import navbar from '../assests/portfolio/navbar.jpg';
-import reactParallax from '../assests/portfolio/reactParallax.jpg';
-import reactSmooth from '../assests/portfolio/reactSmooth.jpg';
+import pizzashop from '../assests/portfolio/pizzashop.jpg';
+import tictactoe from '../assests/portfolio/tictactoe.jpg';
 
 
 const Portfolio = () => {
     const portfolios = [
       {
         id: 1,
-        src: arrayDestruct,
-        href: "https://github.com/lovepadda",
-        href1: "https://linkedin.com",
+        src: marketing,
+        href: "https://github.com/lovepadda/marketing-main",
+        href1: "https://lighthearted-dragon-9291f1.netlify.app/",
 
 
 
       },
       {
         id: 2,
-        src: reactParallax,
+        src: pizzashop,
         href: "https://github.com/lovepadda",
         href1: "https://github.com/lovepadda",
 
@@ -29,21 +29,26 @@ const Portfolio = () => {
       {
         id: 3,
         src: navbar,
-        href: "https://github.com/lovepadda",
+        href: "https://github.com/lovepadda/react-navbar-4",
+        href1: "https://delightful-custard-72d0fd.netlify.app/",
 
 
       },
       {
         id: 4,
-        src: reactSmooth,
-        href: "https://github.com/lovepadda",
+        src: tictactoe,
+        href: "https://github.com/lovepadda/tic-tac-toe",
+        href1: "https://brilliant-cuchufli-716309.netlify.app/",
 
 
       },
       {
         id: 5,
-        src: installNode,
-        href: "https://github.com/lovepadda",
+        src: portfolio,
+        href: "https://github.com/lovepadda/my-portfolio",
+        href1: "https://sensational-axolotl-8b099b.netlify.app/",
+
+        
 
 
       },
@@ -60,7 +65,7 @@ const Portfolio = () => {
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">
               Portfolio
             </p>
-            <p className="py-6">Check out some of my work right here</p>
+            <p className="py-6">You can have a look of all my projects here</p>
           </div>
   
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
