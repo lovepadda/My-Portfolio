@@ -14,23 +14,20 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        I am a frontend developer from Newcastle, Australia.
+        I enjoy taking complex problems and tuning them into simple and beautful interface designs: I also love the logic and structure of coding and allways strive to write elegant and eficient code.
+        I have added my projects on hithub please have a look.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Building stable and maintainable codebases using React. 
+        Implementing a mobile-first approach to existing websites.
+        Collaborating with designers to ensure designs were efficient and technically sound.
+        Creating modular,responsive templates using modern CSS techniques and JavaScrip libraries.
+        Leveraging responsive web frameworks to complete deliverables ahead of schedule.
+          
         </p>
       </div>
     </div>
