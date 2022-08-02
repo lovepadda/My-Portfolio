@@ -21,7 +21,7 @@ const Portfolio = () => {
         id: 2,
         src: pizzashop,
         href: "https://github.com/lovepadda",
-        href1: "https://github.com/lovepadda",
+        href1: "https://beamish-faloodeh-ff889c.netlify.app/",
 
 
 
