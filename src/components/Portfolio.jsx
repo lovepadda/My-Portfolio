@@ -1,9 +1,11 @@
 import React from 'react';
 import marketing from '../assests/portfolio/marketing.jpg';
 import portfolio from '../assests/portfolio/portfolio.jpg';
-import navbar from '../assests/portfolio/navbar.jpg';
+import todo from '../assests/portfolio/todo.jpg';
 import pizzashop from '../assests/portfolio/pizzashop.jpg';
 import tictactoe from '../assests/portfolio/tictactoe.jpg';
+import shopping from '../assests/portfolio/shopping.jpg';
+
 
 
 const Portfolio = () => {
@@ -28,9 +30,9 @@ const Portfolio = () => {
       },
       {
         id: 3,
-        src: navbar,
-        href: "https://github.com/lovepadda/react-navbar-4",
-        href1: "https://delightful-custard-72d0fd.netlify.app/",
+        src: todo,
+        href: "https://github.com/lovepadda/todo-app",
+        href1: "https://todoapp84.netlify.app/",
 
 
       },
@@ -48,9 +50,19 @@ const Portfolio = () => {
         href: "https://github.com/lovepadda/my-portfolio",
         href1: "https://sensational-axolotl-8b099b.netlify.app/",
 
+
+
+
+      },
+      {
+        id: 6,
+        src: shopping,
+        href: "https://github.com/lovepadda/shopping-cart",
+        href1: "https://cartapp84.netlify.app/",
+
+
+
         
-
-
       },
       
     ];
